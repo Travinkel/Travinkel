@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Travinkel
 - 👀 I’m interested in art, coding and health
-- 🌱 I’m currently learning front end libraries and algorithms and data structures
+- 🌱 I’m currently learning about data visualization
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : message me here
 
